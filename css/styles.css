@@ -1,0 +1,129 @@
+html{
+  font-size: 1.2em;
+}
+* { box-sizing: border-box;
+}
+
+header{
+  width:100%;
+  background-color: #00CC99;
+  color:white;
+  list-style: none;
+  height: auto;
+  margin-left: 0;
+}
+
+.name-of-shop{
+  display: inline-block;
+  position: relative;
+  margin-left: 0;
+  font-size: 1.2em;
+  padding-left: 20px;
+}
+
+
+.menu{
+  position: relative;
+  float:right;
+  text-align: left;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00CC99;
+  clear:both;
+}
+
+.nav-item{
+  display: inline;
+  padding: 0;
+  font-size: 1.2em;
+}
+
+.links{
+  text-align: right;
+  float: right;
+  margin-right: 20%;
+
+}
+
+main{
+  align-items: stretch;
+  margin-left: 90px;
+}
+
+.cats{
+  background-color: #3A5FCD;
+  margin-top: 10px;
+  width:90%;
+  height: 300px;
+  overflow: hidden;
+
+}
+
+.image{
+  float: left;
+  max-width: 100%;
+}
+
+.welcome{
+  width:40%;
+  font-size: 25px;
+  float:right;
+  font-size: 1.2em;
+}
+
+.cats-text{
+  background-color: #FFA500;
+  width: 90%;
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+.cats-shampoos{
+  width: 90%;
+  font-size: 1.2em;
+}
+
+.supposing-cats{
+  margin: 20px;
+}
+
+img{
+  padding:1px;
+  border:1px solid #021a40;
+}
+
+.us{
+  color: #EF476F;
+  text-align: center;
+}
+
+.us-fun{
+  display: inline-block;
+  margin: 20px;
+}
+
+.us-values{
+  display: inline-block;
+  margin: 20px;
+}
+
+.us-meow{
+  display: inline-block;
+  margin: 20px;
+}
+.about{
+  background-color: #26547C;
+  color: white;
+  padding: 20px;
+  width: 90%;
+  font-size: 1.2em;
+}
+footer{
+    background-color: #06D6A0;
+    height: 50px;
+    text-align: right;
+    padding: 20px;
+    font-size: 1.2em;
+}
